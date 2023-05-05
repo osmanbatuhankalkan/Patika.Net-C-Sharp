@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/bin/Debug/net7.0/Patika-Csharp-odev
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/bin/Debug/net7.0/Patika-Csharp-odev.deps.json
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/bin/Debug/net7.0/Patika-Csharp-odev.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/bin/Debug/net7.0/Patika-Csharp-odev.dll
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/bin/Debug/net7.0/Patika-Csharp-odev.pdb
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.dll
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/refint/Patika-Csharp-odev.dll
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.pdb
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/Patika-Csharp-odev.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Ödev-C/Patika-Csharp-odev/obj/Debug/net7.0/ref/Patika-Csharp-odev.dll

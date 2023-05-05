@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.deps.json
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.dll
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.pdb
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.dll
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/refint/Tip_donusumleri.dll
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.pdb
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Patika.Net/Tip_donusumleri/obj/Debug/net6.0/ref/Tip_donusumleri.dll

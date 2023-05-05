@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/bin/Debug/net6.0/Metot-Tanimlama
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/bin/Debug/net6.0/Metot-Tanimlama.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/bin/Debug/net6.0/Metot-Tanimlama.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/bin/Debug/net6.0/Metot-Tanimlama.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/bin/Debug/net6.0/Metot-Tanimlama.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/refint/Metot-Tanimlama.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/Metot-Tanimlama.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Metot-Tanimlama/obj/Debug/net6.0/ref/Metot-Tanimlama.dll

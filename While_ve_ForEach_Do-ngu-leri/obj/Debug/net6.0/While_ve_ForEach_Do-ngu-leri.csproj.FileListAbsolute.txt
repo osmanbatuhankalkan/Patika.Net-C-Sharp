@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/bin/Debug/net6.0/While_ve_ForEach_Do-ngu-leri
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/bin/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/bin/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/bin/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/bin/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/refint/While_ve_ForEach_Do-ngu-leri.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/While_ve_ForEach_Do-ngu-leri.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/While_ve_ForEach_Do-ngu-leri/obj/Debug/net6.0/ref/While_ve_ForEach_Do-ngu-leri.dll

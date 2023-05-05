@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/bin/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/bin/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/bin/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/bin/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/bin/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/refint/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/obj/Debug/net6.0/ref/Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.dll

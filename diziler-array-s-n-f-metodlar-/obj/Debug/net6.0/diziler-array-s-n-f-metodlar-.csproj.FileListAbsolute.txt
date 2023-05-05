@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/bin/Debug/net6.0/diziler-array-s-n-f-metodlar-
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/bin/Debug/net6.0/diziler-array-s-n-f-metodlar-.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/bin/Debug/net6.0/diziler-array-s-n-f-metodlar-.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/bin/Debug/net6.0/diziler-array-s-n-f-metodlar-.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/bin/Debug/net6.0/diziler-array-s-n-f-metodlar-.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/refint/diziler-array-s-n-f-metodlar-.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/diziler-array-s-n-f-metodlar-.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/diziler-array-s-n-f-metodlar-/obj/Debug/net6.0/ref/diziler-array-s-n-f-metodlar-.dll

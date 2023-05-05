@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/1.0.0": {
+        "runtime": {
+          "Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diziler_Tan-mlama_Eri-im_ve_D-ng-lerle_Dizi_Kullan-m-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

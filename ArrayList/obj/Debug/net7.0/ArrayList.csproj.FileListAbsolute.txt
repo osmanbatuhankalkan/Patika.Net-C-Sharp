@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/ArrayList/bin/Debug/net7.0/ArrayList
+/Users/osmanbatuhankalkan/Desktop/ArrayList/bin/Debug/net7.0/ArrayList.deps.json
+/Users/osmanbatuhankalkan/Desktop/ArrayList/bin/Debug/net7.0/ArrayList.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/ArrayList/bin/Debug/net7.0/ArrayList.dll
+/Users/osmanbatuhankalkan/Desktop/ArrayList/bin/Debug/net7.0/ArrayList.pdb
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.dll
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/refint/ArrayList.dll
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.pdb
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ArrayList.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/ArrayList/obj/Debug/net7.0/ref/ArrayList.dll

@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/osmanbatuhankalkan/Desktop/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/osmanbatuhankalkan/Desktop/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/osmanbatuhankalkan/Desktop/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

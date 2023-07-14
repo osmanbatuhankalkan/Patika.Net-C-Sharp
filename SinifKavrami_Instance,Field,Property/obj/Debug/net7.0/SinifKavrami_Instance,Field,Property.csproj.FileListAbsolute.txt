@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/bin/Debug/net7.0/SinifKavrami_Instance,Field,Property
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/bin/Debug/net7.0/SinifKavrami_Instance,Field,Property.deps.json
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/bin/Debug/net7.0/SinifKavrami_Instance,Field,Property.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/bin/Debug/net7.0/SinifKavrami_Instance,Field,Property.dll
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/bin/Debug/net7.0/SinifKavrami_Instance,Field,Property.pdb
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.dll
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/refint/SinifKavrami_Instance,Field,Property.dll
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.pdb
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/SinifKavrami_Instance,Field,Property.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/SinifKavrami_Instance,Field,Property/obj/Debug/net7.0/ref/SinifKavrami_Instance,Field,Property.dll

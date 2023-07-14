@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/bin/Debug/net7.0/Kurucu-Metotlar
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/bin/Debug/net7.0/Kurucu-Metotlar.deps.json
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/bin/Debug/net7.0/Kurucu-Metotlar.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/bin/Debug/net7.0/Kurucu-Metotlar.dll
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/bin/Debug/net7.0/Kurucu-Metotlar.pdb
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.dll
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/refint/Kurucu-Metotlar.dll
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.pdb
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/Kurucu-Metotlar.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Kurucu-Metotlar/obj/Debug/net7.0/ref/Kurucu-Metotlar.dll

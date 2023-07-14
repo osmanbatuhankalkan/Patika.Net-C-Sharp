@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/bin/Debug/net7.0/Encapsulation ve Property Kavramı
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/bin/Debug/net7.0/Encapsulation ve Property Kavramı.deps.json
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/bin/Debug/net7.0/Encapsulation ve Property Kavramı.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/bin/Debug/net7.0/Encapsulation ve Property Kavramı.dll
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/bin/Debug/net7.0/Encapsulation ve Property Kavramı.pdb
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.dll
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/refint/Encapsulation ve Property Kavramı.dll
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.pdb
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/Encapsulation ve Property Kavramı.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Encapsulation ve Property Kavramı/obj/Debug/net7.0/ref/Encapsulation ve Property Kavramı.dll

@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/bin/Debug/net7.0/Static Sınıf ve Üyeler
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/bin/Debug/net7.0/Static Sınıf ve Üyeler.deps.json
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/bin/Debug/net7.0/Static Sınıf ve Üyeler.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/bin/Debug/net7.0/Static Sınıf ve Üyeler.dll
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/bin/Debug/net7.0/Static Sınıf ve Üyeler.pdb
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.dll
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/refint/Static Sınıf ve Üyeler.dll
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.pdb
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/Static Sınıf ve Üyeler.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Static Sınıf ve Üyeler/obj/Debug/net7.0/ref/Static Sınıf ve Üyeler.dll

@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/bin/Debug/net7.0/Struct(Yapı) Kavramı
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/bin/Debug/net7.0/Struct(Yapı) Kavramı.deps.json
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/bin/Debug/net7.0/Struct(Yapı) Kavramı.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/bin/Debug/net7.0/Struct(Yapı) Kavramı.dll
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/bin/Debug/net7.0/Struct(Yapı) Kavramı.pdb
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.dll
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/refint/Struct(Yapı) Kavramı.dll
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.pdb
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/Struct(Yapı) Kavramı.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Struct(Yapı) Kavramı/obj/Debug/net7.0/ref/Struct(Yapı) Kavramı.dll

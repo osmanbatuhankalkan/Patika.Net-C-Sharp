@@ -1,2 +1,2 @@
-# Patika-C-
-Düzenleme-Temize-Çekme
+# Patika-CSHARP
+** Çalışma Notlarım **

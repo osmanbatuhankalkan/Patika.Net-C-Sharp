@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Enum/bin/Debug/net7.0/Enum
+/Users/osmanbatuhankalkan/Desktop/Enum/bin/Debug/net7.0/Enum.deps.json
+/Users/osmanbatuhankalkan/Desktop/Enum/bin/Debug/net7.0/Enum.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Enum/bin/Debug/net7.0/Enum.dll
+/Users/osmanbatuhankalkan/Desktop/Enum/bin/Debug/net7.0/Enum.pdb
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.dll
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/refint/Enum.dll
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.pdb
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/Enum.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Enum/obj/Debug/net7.0/ref/Enum.dll

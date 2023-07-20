@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/osmanbatuhankalkan/Desktop/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/osmanbatuhankalkan/Desktop/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/osmanbatuhankalkan/Desktop/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

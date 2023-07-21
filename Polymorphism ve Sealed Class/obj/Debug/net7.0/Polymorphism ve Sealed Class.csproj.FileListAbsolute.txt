@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/bin/Debug/net7.0/Polymorphism ve Sealed Class
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/bin/Debug/net7.0/Polymorphism ve Sealed Class.deps.json
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/bin/Debug/net7.0/Polymorphism ve Sealed Class.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/bin/Debug/net7.0/Polymorphism ve Sealed Class.dll
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/bin/Debug/net7.0/Polymorphism ve Sealed Class.pdb
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.dll
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/refint/Polymorphism ve Sealed Class.dll
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.pdb
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/Polymorphism ve Sealed Class.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Polymorphism ve Sealed Class/obj/Debug/net7.0/ref/Polymorphism ve Sealed Class.dll

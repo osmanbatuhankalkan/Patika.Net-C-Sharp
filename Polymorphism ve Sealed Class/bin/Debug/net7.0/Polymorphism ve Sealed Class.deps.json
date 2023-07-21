@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Polymorphism ve Sealed Class/1.0.0": {
+        "runtime": {
+          "Polymorphism ve Sealed Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymorphism ve Sealed Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

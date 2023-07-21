@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/bin/Debug/net7.0/Interface_Ornek
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/bin/Debug/net7.0/Interface_Ornek.deps.json
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/bin/Debug/net7.0/Interface_Ornek.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/bin/Debug/net7.0/Interface_Ornek.dll
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/bin/Debug/net7.0/Interface_Ornek.pdb
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.dll
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/refint/Interface_Ornek.dll
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.pdb
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/Interface_Ornek.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Interface_Ornek/obj/Debug/net7.0/ref/Interface_Ornek.dll

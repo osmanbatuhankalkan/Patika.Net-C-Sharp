@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/bin/Debug/net7.0/Abstract Class
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/bin/Debug/net7.0/Abstract Class.deps.json
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/bin/Debug/net7.0/Abstract Class.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/bin/Debug/net7.0/Abstract Class.dll
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/bin/Debug/net7.0/Abstract Class.pdb
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.dll
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/refint/Abstract Class.dll
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.pdb
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/Abstract Class.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Abstract Class/obj/Debug/net7.0/ref/Abstract Class.dll

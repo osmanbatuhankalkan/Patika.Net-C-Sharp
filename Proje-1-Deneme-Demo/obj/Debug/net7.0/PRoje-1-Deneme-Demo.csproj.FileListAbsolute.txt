@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/bin/Debug/net7.0/PRoje-1-Deneme-Demo
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/bin/Debug/net7.0/PRoje-1-Deneme-Demo.deps.json
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/bin/Debug/net7.0/PRoje-1-Deneme-Demo.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/bin/Debug/net7.0/PRoje-1-Deneme-Demo.dll
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/bin/Debug/net7.0/PRoje-1-Deneme-Demo.pdb
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.dll
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/refint/PRoje-1-Deneme-Demo.dll
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.pdb
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/PRoje-1-Deneme-Demo.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/PRoje-1-Deneme-Demo/obj/Debug/net7.0/ref/PRoje-1-Deneme-Demo.dll

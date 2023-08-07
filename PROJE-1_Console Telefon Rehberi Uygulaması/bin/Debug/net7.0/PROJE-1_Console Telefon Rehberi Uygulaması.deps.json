@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PROJE-1_Console Telefon Rehberi Uygulaması/1.0.0": {
+        "runtime": {
+          "PROJE-1_Console Telefon Rehberi Uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROJE-1_Console Telefon Rehberi Uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

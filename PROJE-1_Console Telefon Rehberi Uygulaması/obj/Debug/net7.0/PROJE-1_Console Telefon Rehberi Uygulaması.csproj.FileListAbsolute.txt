@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/bin/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/bin/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.deps.json
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/bin/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/bin/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.dll
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/bin/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.pdb
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.dll
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/refint/PROJE-1_Console Telefon Rehberi Uygulaması.dll
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.pdb
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/PROJE-1_Console Telefon Rehberi Uygulaması.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/PROJE-1_Console Telefon Rehberi Uygulaması/obj/Debug/net7.0/ref/PROJE-1_Console Telefon Rehberi Uygulaması.dll
